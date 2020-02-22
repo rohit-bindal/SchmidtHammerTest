@@ -1,1 +1,2 @@
-# SchmidtHammerTest
+# THE SCHMIDT HAMMER TEST
+
