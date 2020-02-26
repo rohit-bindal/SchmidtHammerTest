@@ -1,0 +1,33 @@
+body{
+  background-color: #6391db;
+}
+h2
+{
+  font-weight: bold;
+}
+#test{
+  background-color: black;
+}
+#angle
+{
+  width: 25%;
+}
+#srh
+{
+  width: 25%;
+}
+img{
+  width:100px;
+  height:100px;
+}
+.card
+{
+  background-color: black;
+  width: 200px;
+  height: 265px;
+}
+.card-img-top
+{
+  width: 200px;
+  height: 200px;
+}
